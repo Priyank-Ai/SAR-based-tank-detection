@@ -18,3 +18,5 @@ Target Acquisition and Recognition (MSTAR) program.
 SNL used an X-band SAR sensor in one-foot resolution spotlight mode. Strip map mode 
 was used to collect the clutter data
 
+![tank](https://github.com/Priyank-Ai/SAR-based-tank-detection/assets/134189727/fb090d9f-f04a-4ef5-9641-28fdfbd99d6c)
+
